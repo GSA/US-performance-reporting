@@ -1,3 +1,7 @@
+<img src="https://assets.performance.gov/US-performance-reporting/flag.png"
+     alt="Flag"
+     style="float: left; margin-right: 10px;" />
+
 # U.S. Performance Reporting
 
 "U.S. Performance Reporting" refers to official information about the Federal government's strategic goals, progress, and results, as reported by Federal agencies under the Government Performance and Results Act (GPRA) Modernization Act of 2010. GPRA is a landmark piece of legislation that defines how the Federal government practices strategic planning.
