@@ -30,7 +30,7 @@ body:
     attributes:
       label: Request
       description: Describe a user story and acceptance criteria.
-      value: As a [type of user], I want [X], so that I can [achieve goal]. Given I am on [webpage], When I [action], Then [Result]
+      value: As a (type of user), I want to (something), so that I can (achieve goal]. Given I am on (webpage), When I (action), Then (result)
     validations:
       required: false
   - type: dropdown
