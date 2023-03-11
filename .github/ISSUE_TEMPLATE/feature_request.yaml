@@ -21,7 +21,7 @@ body:
     value: operating system
   validations:
     required: true
-  - type: dropdown
+- type: dropdown
     id: importance
     attributes:
       label: How important is this to you?
