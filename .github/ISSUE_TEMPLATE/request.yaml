@@ -25,6 +25,14 @@ body:
       value: "What, where, and why?"
     validations:
       required: true
+- type: textarea
+    id: user-story
+    attributes:
+      label: Request
+      description: Describe a user story and acceptance criteria.
+      value: As a [type of user], I want [X], so that I can [achieve goal]. Given I am on [webpage], When I [action], Then [Result]
+    validations:
+      required: false
   - type: dropdown
     id: importance
     attributes:
