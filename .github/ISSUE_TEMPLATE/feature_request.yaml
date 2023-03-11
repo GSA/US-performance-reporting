@@ -8,7 +8,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Communicate needs and suggestions. Your request will be considered alongside other priorities.
+        Communicate needs and suggestions. We'll consider your request alongside other priorities. Thank you for your ideas!
   - type: input
     id: contact
     attributes:
