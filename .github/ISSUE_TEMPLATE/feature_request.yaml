@@ -17,8 +17,7 @@ body:
   attributes:
     label: Request
     description: Tell us about your need or suggestion.
-    placeholder: Example | I would like to filter goals by Administration
-    value: request
+    placeholder: ex. I want to browse goals by administration
   validations:
     required: true
   - type: dropdown
