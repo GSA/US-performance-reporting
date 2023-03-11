@@ -5,7 +5,7 @@ labels: ["feature"]
 assignees:
   - metzgr
 body:
-  - type: input
+- type: input
     id: contact
     attributes:
       label: Contact Details
