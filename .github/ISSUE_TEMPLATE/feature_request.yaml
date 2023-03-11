@@ -13,15 +13,6 @@ body:
       placeholder: ex. email@example.com
     validations:
       required: false
-  - type: textarea
-    id: feature-idea
-    attributes:
-      label: What do you need?
-      description:  | Have a screenshot? Drag it into the text field
-      placeholder: Tell us about your needs and ideas.
-      value: "Feature idea!"
-    validations:
-      required: true
   - type: dropdown
     id: browsers
     attributes:
