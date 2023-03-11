@@ -1,0 +1,33 @@
+name: 🎨 Feature Request
+description: Ask for something new
+title: "[Feature]: "
+labels: ["feature", "suggestion"]
+assignees:
+  - metzgr
+body:
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+  - type: textarea
+    id: feature-idea
+    attributes:
+      label: What do you need?
+      description:  | Have a screenshot? Drag it into the text field
+      placeholder: Tell us about your needs and ideas.
+      value: "Feature idea!"
+    validations:
+      required: true
+  - type: dropdown
+    id: browsers
+    attributes:
+      label: How important is this to you?
+      multiple: false
+      options:
+        - Nice-to-have
+        - Important
+        - Critical
