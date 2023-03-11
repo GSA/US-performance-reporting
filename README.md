@@ -20,6 +20,8 @@ We help the Nation join forces by building and diffusing official knowledge abou
 ### Target User
 Everyone interested in impacting what the Federal government achieves for the American people. That tends to be professionals responsible for influencing government's outcomes, including: Federal employees; local and state officials; government affairs professionals; Congressional staffers; advocacy groups; researchers; and journalists.
 
+Learn more
+
 ## How to work with us
 * Make a request
 * Report an issue
