@@ -22,8 +22,7 @@ body:
     attributes:
       label: Request
       description: Describe your request.
-      placeholder: Tell us more.
-      value: "Feature request!"
+      value: "Help us prioritize!"
     validations:
       required: true
   - type: dropdown
