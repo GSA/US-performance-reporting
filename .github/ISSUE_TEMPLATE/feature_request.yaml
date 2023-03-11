@@ -14,13 +14,13 @@ body:
     validations:
       required: false
 - type: textarea
-    id: contact
-    attributes:
-      label: Contact Details
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
-    validations:
-      required: false
+  attributes:
+    label: Request
+    description: Tell us about your need or suggestion.
+    placeholder: Example: I would like to filter goals by Administration
+    value: request
+  validations:
+    required: true
   - type: dropdown
     id: importance
     attributes:
