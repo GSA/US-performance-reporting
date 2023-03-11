@@ -23,7 +23,7 @@ Everyone interested in impacting what the Federal government achieves for the Am
 **[Learn more](https://github.com/GSA/US-performance-reporting/wiki)**
 
 ## How to work with us
-We recommend bookmarking [this link](https://github.com/GSA/US-performance-reporting/issues/new/choose) for easy access to the forms you can use to submit requests, bug reports, and more.
+We recommend bookmarking [this link](https://github.com/GSA/US-performance-reporting/issues/new/choose) for easy access to forms you can use to submit requests, bug reports, and more.
 * [Make a request](https://github.com/GSA/US-performance-reporting/issues/new?assignees=metzgr&labels=feature&template=feature_request.yaml&title=%5BFeature%5D%3A+)
 * [Report a bug](https://github.com/GSA/US-performance-reporting/issues/new?assignees=metzgr%2Cryanwoldatwork&labels=bug%2Ctriage&template=bug_report.yaml&title=%5BBug%5D%3A+)
 * Get in touch @ PgovSupport@GSA.gov
