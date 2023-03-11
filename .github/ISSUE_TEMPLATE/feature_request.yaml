@@ -5,14 +5,6 @@ labels: ["feature", "suggestion"]
 assignees:
   - metzgr
 body:
-  - type: input
-    id: contact
-    attributes:
-      label: Contact Details
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
-    validations:
-      required: false
 - type: textarea
   attributes:
     label: Request
@@ -21,6 +13,14 @@ body:
     value: request
   validations:
     required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
   - type: dropdown
     id: importance
     attributes:
