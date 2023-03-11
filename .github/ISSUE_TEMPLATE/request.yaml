@@ -29,7 +29,7 @@ body:
     id: user-story
     attributes:
       label: Refine request
-      description: Describe a "user story" and "related acceptance criteria" using a common format.
+      description: Express the user story here and related acceptance criteria.
       value: "As a [TYPE OF USER], I want TO [ACTION], so that I can [ACHIEVE GOAL]. Given I am on [WEBPAGE], When I [ACTION], Then [RESULT]."
     validations:
       required: false
