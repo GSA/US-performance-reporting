@@ -23,6 +23,6 @@ Everyone interested in impacting what the Federal government achieves for the Am
 **[Learn more](https://github.com/GSA/US-performance-reporting/wiki)**
 
 ## How to work with us
-* Make a feature request
+* Make a request
 * Report an issue
 * Get in touch
