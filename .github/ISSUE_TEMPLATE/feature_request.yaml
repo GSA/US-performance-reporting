@@ -22,7 +22,7 @@ body:
     attributes:
       label: Request
       description: Describe your request.
-      value: "Help us prioritize!"
+      value: "What, where, and why?"
     validations:
       required: true
   - type: dropdown
