@@ -5,14 +5,6 @@ labels: ["feature", "suggestion"]
 assignees:
   - metzgr
 body:
-- type: textarea
-  attributes:
-    label: Request
-    description: Tell us about your need or suggestion.
-    placeholder: Example: I would like to filter goals by Administration
-    value: request
-  validations:
-    required: true
   - type: input
     id: contact
     attributes:
@@ -21,6 +13,14 @@ body:
       placeholder: ex. email@example.com
     validations:
       required: false
+ - type: textarea
+  attributes:
+    label: Request
+    description: Tell us about your need or suggestion.
+    placeholder: Example | I would like to filter goals by Administration
+    value: request
+  validations:
+    required: true
   - type: dropdown
     id: importance
     attributes:
