@@ -28,7 +28,7 @@ body:
   - type: textarea
     id: user-story
     attributes:
-      label: Request
+      label: Refine request
       description: Describe a user story and acceptance criteria.
       value: "As a [TYPE OF USER], I want TO [ACTION], so that I can [ACHIEVE GOAL]. Given I am on [WEBPAGE], When I [ACTION], Then [RESULT]."
     validations:
