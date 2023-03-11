@@ -1,7 +1,7 @@
 name: 🎨 Feature Request
 description: Ask for something new
-title: "[Feature]: "
-labels: ["feature"]
+title: "[Request]: "
+labels: ["request"]
 assignees:
   - metzgr
 body:
