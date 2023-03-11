@@ -13,11 +13,12 @@ body:
       placeholder: ex. email@example.com
     validations:
       required: false
- - type: textarea
+- type: textarea
   attributes:
-    label: Request
-    description: Tell us about your need or suggestion.
-    placeholder: ex. I want to browse goals by administration
+    label: Operating System
+    description: What operating system are you using?
+    placeholder: Example: macOS Big Sur
+    value: operating system
   validations:
     required: true
   - type: dropdown
