@@ -8,7 +8,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this form!
+        Communicate needs and suggestions. Your request will be considered alongside other priorities.
   - type: input
     id: contact
     attributes:
