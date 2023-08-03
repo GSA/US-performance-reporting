@@ -11,7 +11,7 @@
      style="width: 400px; height: auto;" />
      </p>
 
-Performance.gov is a country-spanning project from the U.S. government dedicated to accelerating progress toward the strategic goals set by the Federal government. Across events, programs, and data-rich reporting—prepared by the teams directly responsible for U.S. strategy execution—Performance.gov highlights progress achieved, holds agencies accountable to measurable results, and brings people together from across sectors to address the Nation’s major challenges, as targeted by the U.S. strategic portfolio. Performance.gov fulfills the law established by the Government Performance and Results Modernization Act of 2010 that Federal performance information be available from a single website.
+Performance.gov is a country-spanning project from the U.S. government dedicated to accelerating progress toward the strategic goals set by the Federal government. Across events, programs, and data-rich reporting—prepared by the teams directly responsible for U.S. strategy execution—Performance.gov highlights progress achieved, holds government accountable to measurable results, and brings people together from across sectors to address the Nation’s major challenges, as targeted by the U.S. strategic portfolio. Performance.gov fulfills the law established by the Government Performance and Results Modernization Act of 2010 that Federal performance information be available from a single website.
 
 ### Mission
 
