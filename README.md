@@ -1,7 +1,7 @@
 :construction: <span style="color:blue">IN PROGRESS - NOT FINAL</span>
 
 # U.S. Performance Reporting
-"U.S. Performance Reporting" refers to official information about the Federal government's strategic goals, progress, and results, as reported by Federal agencies under the [Government Performance and Results Act (GPRA)](https://www.congress.gov/bill/111th-congress/house-bill/2142). GPRA is a landmark piece of legislation that defines how the Federal government conducts a varety of strategic planning and execution routines. For major U.S. agencies, it requires participation from senior officials, notably Deputy Secretaries. It was [established in 1993](https://www.congress.gov/bill/103rd-congress/senate-bill/20#:~:text=Shown%20Here%3A-,Passed%20Senate%20amended%20(06%2F23%2F1993),of%20their%20agency's%20program%20activities.) and last updated in 2010.
+"U.S. Performance Reporting" refers to official information about the Federal government's strategic goals, progress, and results, as reported by Federal agencies under the [Government Performance and Results Act (GPRA)](https://www.congress.gov/bill/111th-congress/house-bill/2142). GPRA is a landmark piece of legislation that defines how the Federal government conducts strategic planning and related activities. For major U.S. agencies, it requires participation from senior officials, notably Deputy Secretaries. It was [established in 1993](https://www.congress.gov/bill/103rd-congress/senate-bill/20#:~:text=Shown%20Here%3A-,Passed%20Senate%20amended%20(06%2F23%2F1993),of%20their%20agency's%20program%20activities.) and last updated in 2010.
 
 ## Performance.gov
 <p align="center" style="font-style: italic;">
